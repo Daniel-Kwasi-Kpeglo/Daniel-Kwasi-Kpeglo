@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-Kwasi-Kpeglo
-- 👀 I’m interested in Software Engineering and Data Science.
-- 🌱 I’m currently interested in roles relating to Software Engineering, Data analysis, and Data science.
-- 💞️ I’m looking to collaborate on projects involving Python, SQL, and using data Visualization tools such as Tableau and Microsoft Power BI
+- 👀 I’m interested Frontend and Backend Web development, Data Analytics, and Data Science..
+- 🌱 I’m currently interested in Frontend and Backend web development, Data analysis, and Data Science roles.
+- 💞️ I’m looking to collaborate on projects involving frontend and Backend web development, Data Science, and Data Analytics
 - 📫 How to reach me daniel_kpeglo@yahoo.com
 
 <!---
