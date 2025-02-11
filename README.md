@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Kwasi-Kpeglo
-- 👀 I’m interested Frontend and Backend Web development, Data Analytics, and Data Science..
-- 🌱 I’m currently interested in Frontend and Backend web development, Data analysis, and Data Science roles.
+- 👀 I’m interested in Frontend and Backend Web Development, Data Analytics, and Data Science.
+- 🌱 I’m currently working on projects in Frontend and Backend web development, Data analysis, and Data Science roles.
 - 💞️ I’m looking to collaborate on projects involving Frontend and Backend web development, Data Science, and Data Analytics
 - 📫 How to reach me daniel_kpeglo@yahoo.com
 
